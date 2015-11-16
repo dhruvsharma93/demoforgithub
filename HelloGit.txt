@@ -1,7 +1,2 @@
-This is first line. 1
-<<<<<<< HEAD
-This is line 2 by Dhruv.
-Testing line 3
-=======
-This is second line by Tejas
->>>>>>> bb1f97e9b2f8188a84aa308c2afd2e18338d30da
+This is first line 1.
+This is second line 2.
