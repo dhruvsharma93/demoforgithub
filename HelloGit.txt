@@ -6,3 +6,4 @@ This is line 4.
 =======
 This is line 5.
 >>>>>>> .merge_file_a05232
+This is line 8
