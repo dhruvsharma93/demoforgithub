@@ -9,3 +9,5 @@ This is line 6.
 >>>>>>> .merge_file_a05232
 This is line 8
 >>>>>>> origin/master
+THIS IS A TEST
+THIS IS ANOTHER TEST
